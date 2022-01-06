@@ -2,7 +2,7 @@
 pragma solidity >=0.8.4 <0.9.0;
 //pragma solidity 0.6.12;
 
-import "./IntegralMath.sol";
+import './IntegralMath.sol';
 
 contract AnalyticMath {
     using IntegralMath for *;
